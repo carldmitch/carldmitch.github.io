@@ -1,0 +1,14 @@
+---
+layout: music
+title: Album
+permalink: /album/
+---
+
+{% for album in site.albums %}
+{% for work in album.works %}
+<h3>{{ work.title }}</h3>
+<a href="../albums/{{work.title}}" target="_blank">
+  <img src="{{ work.image }}" border="1px"></img></a>
+  <p>{{ work.composer }}</p>
+{% endfor %}
+{% endfor %}

@@ -1,0 +1,23 @@
+# Site settings
+title: Carldmitch
+email: carldmitch@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Basically this is just me learning what i can about all the things
+  that interest at the moment. Ruby, Watir, Selenium, Jekyll, Markdown.
+  Please keep in mind most of the content is still a work in progress.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://carldmitch.github.io" # the base hostname & protocol for your site
+twitter_username: carldmitch
+github_username:  carldmitch
+excerpt_separator: <!--more-->
+
+# Build settings
+markdown: kramdown
+# Collections
+collections:
+  musics:
+    output: false
+  albums:
+    output: true
+  playlists:
+    output: true
