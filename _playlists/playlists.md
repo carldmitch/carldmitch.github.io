@@ -1,7 +1,11 @@
 ---
 works:
-  - title: "haunting2016october"
-    composer: "Haunting 2016 October"
+  - title: "twilightnights"
+    composer: "Twilight Nights"
+    image: "../images/twilightnights.jpg"
+
+  - title: "haunting2016fall"
+    composer: "Haunting 2016 Fall"
     image: "../images/maddie.jpg"
 
   - title: "haunting"
