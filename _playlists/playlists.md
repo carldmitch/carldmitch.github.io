@@ -1,5 +1,9 @@
 ---
 works:
+  - title: "haunting2016october"
+    composer: "Haunting 2016 October"
+    image: "../images/maddie.jpg"
+
   - title: "haunting"
     composer: "Haunting"
     image: "../images/haunting.jpg"
