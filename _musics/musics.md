@@ -1,6 +1,10 @@
 ---
 works:
 # the order here will be the same on the /musics page
+  - title: "jamesvmcmorrow"
+    composer: "James Vincent McMorrow"
+    image: "../images/jamesvmcmorrow.jpg"
+    
   - title: "iamtovelo"
     composer: "Tove Lo"
     image: "../images/iamtovelo.png"
@@ -24,10 +28,6 @@ works:
   - title: "theweeknd"
     composer: "The Weeknd"
     image: "../images/theweeknd.jpg"
-
-  - title: "jamesvmcmorrow"
-    composer: "James Vincent McMorrow"
-    image: "../images/jamesvmcmorrow.jpg"
 
   - title: "mikkyekko"
     composer: "Mikky Ekko"

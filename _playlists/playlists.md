@@ -8,6 +8,10 @@ works:
     composer: "Haunting 2016 Fall"
     image: "../images/maddie.jpg"
 
+  - title: "bighairballads"
+    composer: "Big Hair Ballads"
+    image: "../images/bighairballads.jpg"
+
   - title: "haunting"
     composer: "Haunting"
     image: "../images/haunting.jpg"
