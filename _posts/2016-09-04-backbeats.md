@@ -10,7 +10,7 @@ categories: playlists
   [1]: /playlists/backbeats
   [2]: /images/backbeats.jpg
 
-  &#x2197;&#x2197;&#x2197; CLICK HER TO LISTEN &#x2196;&#x2196;&#x2196;
+  CLICK HER TO LISTEN
 
   1. Backbeat by Dagny
   2. We are the Hearts by EXGF

@@ -10,7 +10,7 @@ categories: playlists
   [1]: /playlists/twilightnights
   [2]: /images/twilightnights.jpg
 
-  &#x2197;&#x2197;&#x2197; CLICK HER TO LISTEN &#x2196;&#x2196;&#x2196;
+  CLICK HER TO LISTEN
 
   1. Chained - Live at BBC Radio 1 by Mikky Ekko
   2. Meteorites by LIGHTS
