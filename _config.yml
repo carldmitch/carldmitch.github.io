@@ -16,7 +16,5 @@ markdown: kramdown
 collections:
   musics:
     output: true
-  albums:
-    output: true
   playlists:
     output: true

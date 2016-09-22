@@ -1,0 +1,14 @@
+---
+layout: music
+title: Plastic Mary
+permalink: /plasticmary/
+---
+
+{% for music in site.musics %}
+{% for work in music.works %}
+<h3>#{{ work.title }}</h3>
+<a href="../plasticmary/{{work.title}}" target="_blank">
+  <img src="{{ work.image }}" border="1px"></img></a>
+  <p>{{ work.composer }}</p>
+{% endfor %}
+{% endfor %}
