@@ -6,7 +6,7 @@ permalink: /playlists/
 
 {% for playlist in site.playlists %}
 {% for work in playlist.works %}
-<h3>@{{ work.title }}</h3>
+<h3>#{{ work.title }}</h3>
 <a href="../playlists/{{work.title}}" target="_blank">
   <img src="{{ work.image }}" border="1px"></img></a>
   <p>{{ work.composer }}</p>
