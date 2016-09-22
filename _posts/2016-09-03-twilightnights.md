@@ -4,13 +4,12 @@ title: Twilight Nights
 date:   2016-09-03 00:00:01
 categories: playlists
 ---
+[Click here to open playlist](/playlists/twilightnights){:target='\_blank'}
 
 [![twilightnights][2]][1]
 
   [1]: /playlists/twilightnights
   [2]: /images/twilightnights.jpg
-
-  CLICK HER TO LISTEN
 
   1. Chained - Live at BBC Radio 1 by Mikky Ekko
   2. Meteorites by LIGHTS
