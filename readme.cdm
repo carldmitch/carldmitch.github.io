@@ -10,7 +10,7 @@ jekyll build --watch
 jekyll serve
 
 git add -A
-git commit -m "removed home playlist and reordered the 5"
+git commit -m "fixed new lines"
 git push origin master 
 
 # When you discover a new song to add
