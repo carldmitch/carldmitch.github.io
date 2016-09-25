@@ -26,5 +26,6 @@ categories: playlists
   13. Friends by Chase Atlantic
   14. Cheap Hotel by Leon Else
   15. Feels - Jai Wolf Remix by Kiiara, Jai Wolf
+  16. Fantasy by Alina Baraz, Galimatias
 
 

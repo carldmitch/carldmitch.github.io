@@ -17,8 +17,8 @@ works:
     composer: "Back Beats"
     image: "../images/backbeats.jpg"
 
-  - title: "neowave"
-    composer: "Neo Wave"
-    image: "../images/neowave.jpg"
+  - title: "neowaves"
+    composer: "Neo Waves"
+    image: "../images/neowaves.jpg"
 
 ---

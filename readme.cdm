@@ -1,0 +1,21 @@
+carldmitch.com carldmitch.github.io
+
+Share spotify song
+curate seasonal playlist(s) ex.Haunting2016Fall
+Sites: spotify, soundcloud, youtube
+
+#daily workflow
+Open two tabs within the carldmitch.gihub.io directory then
+jekyll build --watch
+jekyll serve
+
+git add -A
+git commit -m "removed home playlist and reordered the 5"
+git push origin master 
+
+# When you discover a new song to add
+1. Click Share and copy the song/artist info to clipboard ex. Be Your Love by Bishop Briggs
+2. Search youtube to get the video extension ex. "oBoQ7TG5BMw" from https://www.youtube.com/watch?v=oBoQ7TG5BMw
+3. Add song to two files: (add to the top so that the newest song plays first)
+    - /_posts
+    - /playlists
