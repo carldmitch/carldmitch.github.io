@@ -10,7 +10,7 @@ jekyll build --watch
 jekyll serve
 
 git add -A
-git commit -m "fixed new lines"
+git commit -m "added more songs to twilightnights"
 git push origin master 
 
 # When you discover a new song to add
